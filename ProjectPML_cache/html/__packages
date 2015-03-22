@@ -1,0 +1,13 @@
+base
+lattice
+ggplot2
+caret
+GGally
+rpart
+randomForest
+nnet
+survival
+gbm
+plyr
+rattle
+rpart.plot
